@@ -73,73 +73,73 @@ The table below lists the leading commercial financial management platforms, ran
 
 ## 🔓 Open-Source GitHub Projects
 
-The following active open-source financial management and accounting solutions are **sorted in descending order of GitHub star count**. Each entry features a live social star badge linking directly to the project's stargazers page:
+The following active open-source financial management and accounting solutions are **sorted in descending order of GitHub Stars_Count**. Each entry features a live social Stars_Badge linking directly to the project's stargazers page:
 
-1. **[Maybe](https://github.com/maybe-finance/maybe)** [![GitHub stars](https://img.shields.io/github/stars/maybe-finance/maybe?style=social&color=white)](https://github.com/maybe-finance/maybe/stargazers)  
+1. **[Maybe](https://github.com/maybe-finance/maybe)** [![GitHub_Stars](https://img.shields.io/github/stars/maybe-finance/maybe?style=social&color=white)](https://github.com/maybe-finance/maybe/stargazers)  
    *Personal finance OS & modern wealth management infrastructure*  
    Built on Ruby on Rails and PostgreSQL, Maybe is a next-generation self-hosted financial manager providing automated transaction aggregation, multi-currency investment tracking, net worth balance sheets, and sovereign data ownership.
 
-2. **[ERPNext](https://github.com/frappe/erpnext)** [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)  
+2. **[ERPNext](https://github.com/frappe/erpnext)** [![GitHub_Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)  
    *Enterprise open-source ERP with full double-entry accounting*  
    The benchmark open-source enterprise suite (GPL-3.0, Frappe Framework/Python/Vue). Features an audit-ready general ledger, multi-currency accounts payable/receivable, automated bank reconciliation, tax templates, cost center analytics, budgeting, and 30+ financial audit reports.
 
-3. **[Actual Budget](https://github.com/actualbudget/actual)** [![GitHub stars](https://img.shields.io/github/stars/actualbudget/actual?style=social&color=white)](https://github.com/actualbudget/actual/stargazers)  
+3. **[Actual Budget](https://github.com/actualbudget/actual)** [![GitHub_Stars](https://img.shields.io/github/stars/actualbudget/actual?style=social&color=white)](https://github.com/actualbudget/actual/stargazers)  
    *Local-first, privacy-focused financial management & budgeting platform*  
    Built with Node.js, TypeScript, and SQLite, Actual implements envelope budgeting, end-to-end encrypted device synchronization, bank statement ingestion (GoCardless/SimpleFIN), and zero-cost self-hosting via Docker.
 
-4. **[Firefly III](https://github.com/firefly-iii/firefly-iii)** [![GitHub stars](https://img.shields.io/github/stars/firefly-iii/firefly-iii?style=social&color=white)](https://github.com/firefly-iii/firefly-iii/stargazers)  
+4. **[Firefly III](https://github.com/firefly-iii/firefly-iii)** [![GitHub_Stars](https://img.shields.io/github/stars/firefly-iii/firefly-iii?style=social&color=white)](https://github.com/firefly-iii/firefly-iii/stargazers)  
    *Self-hosted personal finance manager & double-entry bookkeeping engine*  
    A PHP/Laravel (AGPL-3.0) accounting application supporting double-entry bookkeeping, rule-based transaction automation, budget limits, asset accounts, multi-currency wallets, and external bank feed imports via Spectre and Plaid connectors.
 
-5. **[Invoice Ninja](https://github.com/invoiceninja/invoiceninja)** [![GitHub stars](https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=social&color=white)](https://github.com/invoiceninja/invoiceninja/stargazers)  
+5. **[Invoice Ninja](https://github.com/invoiceninja/invoiceninja)** [![GitHub_Stars](https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=social&color=white)](https://github.com/invoiceninja/invoiceninja/stargazers)  
    *Self-hosted invoicing, payments, and financial accounts platform*  
    An enterprise-grade open-source billing engine (Flutter + PHP/Laravel) providing client portals, multi-currency invoices, recurring subscription billing, payment gateway bridging (Stripe, PayPal, Authorize.net), and expense tracking.
 
-6. **[Akaunting](https://github.com/akaunting/akaunting)** [![GitHub stars](https://img.shields.io/github/stars/akaunting/akaunting?style=social&color=white)](https://github.com/akaunting/akaunting/stargazers)  
+6. **[Akaunting](https://github.com/akaunting/akaunting)** [![GitHub_Stars](https://img.shields.io/github/stars/akaunting/akaunting?style=social&color=white)](https://github.com/akaunting/akaunting/stargazers)  
    *Modular open-source cloud accounting software for SMBs*  
    Built on modern PHP/Laravel, Akaunting delivers clean double-entry accounting, customer and vendor ledgers, invoice generation, expense categorization, and an extensive modular app marketplace for tax and payroll extensions.
 
-7. **[Crater](https://github.com/crater-invoice-inc/crater)** [![GitHub stars](https://img.shields.io/github/stars/crater-invoice-inc/crater?style=social&color=white)](https://github.com/crater-invoice-inc/crater/stargazers)  
+7. **[Crater](https://github.com/crater-invoice-inc/crater)** [![GitHub_Stars](https://img.shields.io/github/stars/crater-invoice-inc/crater?style=social&color=white)](https://github.com/crater-invoice-inc/crater/stargazers)  
    *Open-source invoicing suite for freelancers and growing teams*  
    Equipped with web and mobile clients (Laravel, Vue.js, React Native), Crater provides an intuitive interface for invoice creation, estimate-to-invoice conversions, tax calculation classes, and detailed cash inflow reporting.
 
-8. **[Dolibarr ERP & CRM](https://github.com/Dolibarr/dolibarr)** [![GitHub stars](https://img.shields.io/github/stars/Dolibarr/dolibarr?style=social&color=white)](https://github.com/Dolibarr/dolibarr/stargazers)  
+8. **[Dolibarr ERP & CRM](https://github.com/Dolibarr/dolibarr)** [![GitHub_Stars](https://img.shields.io/github/stars/Dolibarr/dolibarr?style=social&color=white)](https://github.com/Dolibarr/dolibarr/stargazers)  
    *Modular open-source ERP/CRM with comprehensive double-entry accounting*  
    A battle-tested modular ERP system (GPL-3.0, PHP) offering chart of accounts customization, accounts receivable/payable, bank account reconciliations, expense reports, and pre-packaged localized tax modules for US GAAP, EU VAT, and Indian GST.
 
-9. **[Beancount](https://github.com/beancount/beancount)** [![GitHub stars](https://img.shields.io/github/stars/beancount/beancount?style=social&color=white)](https://github.com/beancount/beancount/stargazers)  
+9. **[Beancount](https://github.com/beancount/beancount)** [![GitHub_Stars](https://img.shields.io/github/stars/beancount/beancount?style=social&color=white)](https://github.com/beancount/beancount/stargazers)  
    *Plain-text double-entry accounting for engineers and financial analysts*  
    A command-line double-entry accounting engine written in Python. Treats financial transactions as immutable plain-text records that can be version-controlled in Git, audited, and analyzed using SQL-like syntax (BQL) and web visualization tools like Fava.
 
-10. **[Ledger](https://github.com/ledger/ledger)** [![GitHub stars](https://img.shields.io/github/stars/ledger/ledger?style=social&color=white)](https://github.com/ledger/ledger/stargazers)  
+10. **[Ledger](https://github.com/ledger/ledger)** [![GitHub_Stars](https://img.shields.io/github/stars/ledger/ledger?style=social&color=white)](https://github.com/ledger/ledger/stargazers)  
     *High-performance command-line double-entry accounting engine*  
     The original pioneer of plain-text accounting (C++). Operates directly on textual transaction logs without a database, providing instantaneous balance checks, capital gains tracking, multi-commodity calculations, and audit-ready balance sheets.
 
-11. **[Kill Bill](https://github.com/killbill/killbill)** [![GitHub stars](https://img.shields.io/github/stars/killbill/killbill?style=social&color=white)](https://github.com/killbill/killbill/stargazers)  
+11. **[Kill Bill](https://github.com/killbill/killbill)** [![GitHub_Stars](https://img.shields.io/github/stars/killbill/killbill?style=social&color=white)](https://github.com/killbill/killbill/stargazers)  
     *Open-source enterprise subscription billing and payment infrastructure*  
     A Java-based billing and financial payment engine designed for complex enterprise architectures. Features multi-tenant billing pipelines, automated dunning, flexible catalog definitions, payment gateway routing, and general ledger synchronization.
 
-12. **[Frappe Books](https://github.com/frappe/books)** [![GitHub stars](https://img.shields.io/github/stars/frappe/books?style=social&color=white)](https://github.com/frappe/books/stargazers)  
+12. **[Frappe Books](https://github.com/frappe/books)** [![GitHub_Stars](https://img.shields.io/github/stars/frappe/books?style=social&color=white)](https://github.com/frappe/books/stargazers)  
     *Free desktop double-entry bookkeeping application for small businesses*  
     An Electron and SQLite desktop application crafted by the Frappe team. Offers offline-first double-entry bookkeeping, invoice creation, billing, payment vouchers, and financial balance sheet generation with zero cloud overhead.
 
-13. **[hledger](https://github.com/hledgerorg/hledger)** [![GitHub stars](https://img.shields.io/github/stars/hledgerorg/hledger?style=social&color=white)](https://github.com/hledgerorg/hledger/stargazers)  
+13. **[hledger](https://github.com/hledgerorg/hledger)** [![GitHub_Stars](https://img.shields.io/github/stars/hledgerorg/hledger?style=social&color=white)](https://github.com/hledgerorg/hledger/stargazers)  
     *Robust, cross-platform plain-text accounting tool*  
     Written in Haskell, hledger tracks money, investments, commodities, and time. Features CLI, terminal UI (TUI), and web UI frontends, providing deterministic balance calculations, time-series budget validation, and CSV transaction matching.
 
-14. **[GnuCash](https://github.com/Gnucash/gnucash)** [![GitHub stars](https://img.shields.io/github/stars/Gnucash/gnucash?style=social&color=white)](https://github.com/Gnucash/gnucash/stargazers)  
+14. **[GnuCash](https://github.com/Gnucash/gnucash)** [![GitHub_Stars](https://img.shields.io/github/stars/Gnucash/gnucash?style=social&color=white)](https://github.com/Gnucash/gnucash/stargazers)  
     *Established open-source desktop accounting software*  
     A mature financial application (GPL) for individuals and small enterprises. Implements double-entry bookkeeping, checkbook-style transaction registers, investment portfolio tracking, scheduled billing, and OFX/QIF/HBCI banking statement import.
 
-15. **[LedgerSMB](https://github.com/ledgersmb/LedgerSMB)** [![GitHub stars](https://img.shields.io/github/stars/ledgersmb/LedgerSMB?style=social&color=white)](https://github.com/ledgersmb/LedgerSMB/stargazers)  
+15. **[LedgerSMB](https://github.com/ledgersmb/LedgerSMB)** [![GitHub_Stars](https://img.shields.io/github/stars/ledgersmb/LedgerSMB?style=social&color=white)](https://github.com/ledgersmb/LedgerSMB/stargazers)  
     *Web-based open-source ERP and double-entry accounting system*  
     A robust financial management and ERP engine (Perl + PostgreSQL) tailored for small-to-midsize businesses. Covers general ledger, accounts payable/receivable, inventory valuation, quotation workflows, fixed assets, and multi-currency reporting.
 
-16. **[dubbl](https://github.com/dubbl-org/dubbl)** [![GitHub stars](https://img.shields.io/github/stars/dubbl-org/dubbl?style=social&color=white)](https://github.com/dubbl-org/dubbl/stargazers)  
+16. **[dubbl](https://github.com/dubbl-org/dubbl)** [![GitHub_Stars](https://img.shields.io/github/stars/dubbl-org/dubbl?style=social&color=white)](https://github.com/dubbl-org/dubbl/stargazers)  
     *API-first, open-source alternative to Xero & QuickBooks with built-in MCP*  
     A modern full-stack accounting platform (Next.js + PostgreSQL) featuring double-entry bookkeeping, PO/bill workflows, inventory tracking, fixed assets, and a native Model Context Protocol (MCP) server for direct autonomous AI agent integration.
 
-17. **[Ledgic](https://github.com/alihdrndm/ledgic)** [![GitHub stars](https://img.shields.io/github/stars/alihdrndm/ledgic?style=social&color=white)](https://github.com/alihdrndm/ledgic/stargazers)  
+17. **[Ledgic](https://github.com/alihdrndm/ledgic)** [![GitHub_Stars](https://img.shields.io/github/stars/alihdrndm/ledgic?style=social&color=white)](https://github.com/alihdrndm/ledgic/stargazers)  
     *Open-source accounts-payable automation with AI & three-way matching*  
     Built with FastAPI, Next.js, and Supabase, Ledgic automates AP cycles with multi-modal OCR invoice parsing, three-way matching, segregation of duties, and an integrated MCP server for finance AI agents.
 
@@ -189,7 +189,7 @@ Contributions are highly encouraged! To add or update financial software entries
 2. Create a new branch: `git checkout -b feat/add-financial-tool`.
 3. Add or update the product in either the SaaS Table or Open-Source Projects list:
    - Ensure SaaS entries follow the table schema with verified starting tier pricing and specific trial limits.
-   - Ensure Open-Source entries include a functional Shields.io star badge with `style=social` and `color=white` linked to `/stargazers`.
+   - Ensure Open-Source entries include a functional Shields.io Stars_Badge with `style=social` and `color=white` linked to `/stargazers`.
 4. Commit your changes: `git commit -m "feat: add [Tool Name]"`.
 5. Push to your branch and open a well-documented **Pull Request (PR)**.
 
@@ -215,7 +215,7 @@ If you find this curated financial management repository helpful:
 
 - This repository is a community-curated directory created for research, educational, and evaluation purposes; it does not constitute formal legal, accounting, tax, or investment advisory.
 - Production financial systems handling core accounting records, payroll data, and fiscal filings must strictly adhere to regulatory frameworks including **GAAP/IFRS**, **Sarbanes-Oxley (SOX)**, **EU GDPR**, and local statutory tax reporting.
-- Pricing metrics, trial tiers, and star counts are subject to change over time; please verify latest details directly with respective software vendors and GitHub repositories.
+- Pricing metrics, trial tiers, and Stars_Counts are subject to change over time; please verify latest details directly with respective software vendors and GitHub repositories.
 
 ---
 
